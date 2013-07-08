@@ -1,4 +1,4 @@
-Dump Method
+Dump Method - http://netgrow.com.au/
 
 The Dump method is based on one of the tags available in Coldfusion ( <cfdump>) providing the ability to display simple and complex variables in a user friendly way that is perfect for debugging/inspecting data. There is no way to do this with javascript and often I had wanted a method to do this. This method will do just that allowing for an infinite amount of data nesting complete with color coding for different data types, the ability to show/hide the data's type (String/Number/Boolean/Object/Array/Function), expandable and collapsible tables/keys and cross browser support.
 
